@@ -1,0 +1,6 @@
+
+img/
+.idea/
+venv/
+*.png
+*.pyc
